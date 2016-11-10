@@ -1,4 +1,4 @@
-# frontend-interviews
+# Interview task
 
 This is the animals rating system. It allows users to see a list of animals and
 sort them using different sorting rules.
@@ -21,6 +21,6 @@ When the user first loads the page, the `animals` array is rendered using the fo
 
 Clicking on the sorting links should rerender the list based on the instructions.
 
-## Extra nice to haves
+### Extra nice to haves
 
 Add an additional button that highlights the highest rated animal in green and the lowest rated animal in red.
