@@ -10,7 +10,7 @@ Please fork this repository.
 
 ## Step 2
 
-Create a branch on your fork. Then, solve the problem and write tests.
+Create a branch on your fork. Then, solve the problem and **write tests**.
 
 **DO NOT SPEND MORE THAN 2 HOURS**
 
