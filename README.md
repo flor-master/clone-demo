@@ -16,9 +16,9 @@ Create a branch on your fork. Then, solve the problem and **write tests**.
 
 ## Step 3
 
-Please, **Make a pull request** against _YOUR_ fork.
+Please, **Make a pull request** against **YOUR** fork.
 
-*DO NOT CREATE A PULL REQUEST AGAINST OUR FORK*
+**DO NOT CREATE A PULL REQUEST AGAINST OUR FORK**
 
 ## Step 4
 
