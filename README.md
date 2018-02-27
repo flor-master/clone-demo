@@ -1,6 +1,6 @@
 # Very Good Security
 
-Welcome to the Very Good Group FrontEnd Engineering Interview
+Welcome to the Very Good Security FrontEnd Engineering Interview
 
 You will find the [problem](https://github.com/verygoodgroup/frontend-interviews/blob/master/Problem) described here.
 
