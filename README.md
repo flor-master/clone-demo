@@ -2,7 +2,7 @@
 
 Welcome to the Very Good Security FrontEnd Engineering Interview
 
-You will find the [problem](https://github.com/verygoodgroup/frontend-interviews/blob/master/Problem) described here.
+You will find the [problem](https://github.com/mlukynyuk/frontend-interviews/blob/master/Problem) described here.
 
 ## Step 1
 
