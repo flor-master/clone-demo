@@ -1,4 +1,4 @@
-# Very Good Group
+# Very Good Security
 
 Welcome to the Very Good Group FrontEnd Engineering Interview
 
